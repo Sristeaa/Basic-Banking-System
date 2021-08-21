@@ -1,0 +1,14 @@
+.omit1{background: rgba(0,0,0,0.1);}
+.omit2{background: rgba(0,0,0,0.2);}
+.omit3{background: rgba(0,0,0,0.3);}
+.omit4{background: rgba(0,0,0,0.4);}
+.omit5{background: rgba(0,0,0,0.5);}
+.omit6{background: rgba(0,0,0,0.6);}
+.omit7{background: rgba(0,0,0,0.7);}
+.omit8{background: rgba(0,0,0,0.8);}
+.omit9{background: rgba(0,0,0,0.9);}
+
+.shadowBlack{box-shadow: 2px 2px 11px black}
+.shadowGreen{box-shadow: 2px 2px 11px green}
+.shadowBlue{box-shadow: 2px 2px 11px blue}
+.shadowWhite{box-shadow: 2px 2px 11px white}
